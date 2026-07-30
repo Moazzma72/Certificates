@@ -1,16 +1,15 @@
-## Hi there 👋
+# 📜 My Certificates
 
-<!--
-**Moazzma72/Moazzma72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my certificates repository.
 
-Here are some ideas to get you started:
+## Coursera Certificates
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AI Fundamentals
+
+Click below to view my certificate:
+
+📄 [AI Fundamentals Certificate](AI%20fundamentals_JPG.jpeg)
+
+---
+
+More certificates will be added here as I continue learning.
