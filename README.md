@@ -10,6 +10,8 @@ Click below to view my certificate:
 
 📄 [AI Fundamentals Certificate](AI%20fundamentals_JPG.jpeg)
 
+Coursera python 1.pdf
+
 ---
 
 More certificates will be added here as I continue learning.
