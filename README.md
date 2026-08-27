@@ -17,7 +17,7 @@ Welcome to my certificates repository.
 --
 
 ### Git nd Github
-[📄 View Git nd Github Certificate (PDF)] (https://github.com/Moazzma72/Certificates/blob/main/Coursera%20git%20nd%20github%20(1)
+[📄 View Git nd Github Certificate (PDF)(https://github.com/Moazzma72/Certificates/blob/main/Coursera%20git%20nd%20github%20(1).pdf)
 
 
 *More certificates will be added here as I continue learning.*
