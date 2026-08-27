@@ -14,6 +14,10 @@ Welcome to my certificates repository.
 ### Python
 [📄 View Python Certificate (PDF)](https://github.com/Moazzma72/Certificates/blob/main/Coursera%20python%201.pdf)
 
----
+--
+
+### Git nd Github
+[📄 View Git nd Github Certificate (PDF)]
+
 
 *More certificates will be added here as I continue learning.*
