@@ -17,7 +17,7 @@ Welcome to my certificates repository.
 --
 
 ### Git nd Github
-[📄 View Git nd Github Certificate (PDF)]
+[📄 View Git nd Github Certificate (PDF)] ()
 
 
 *More certificates will be added here as I continue learning.*
