@@ -4,4 +4,4 @@
 
 I completed the **Google AI Professional Certificate** through Coursera.
 
-📜 [View Certificate](Certificate/Google-AI-Professional-Certificate.pdf)
+📜 [View Certificate](Professional-Certificate.pdf)
